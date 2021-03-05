@@ -11,7 +11,7 @@ Chinnakrit Channok 6131745821
 Schwin Hongladaromp 6131737821
 Ghandhi Thamthiwat 6131715021
 Sasinat 6131866021
-Poomprawat Komolthitinan
+Poomprawat Komolthitinan 6131843621
 Korawan 6131705721
 Tanathan 6131773321
 Jirat Viriyataranon 6131726921
@@ -26,3 +26,5 @@ Chanon Sangrattanayon 6131742921
 Khanatat Thangwatthanarat 6131723021
 Janettre Kaivipakbanyai 6131728121
 Kollapat Vachiratrangsalit 6131710821
+Summa Sriworapong 6131877021
+Intuorn Jariyaprasertsin 6131902021
